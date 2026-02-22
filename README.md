@@ -39,14 +39,13 @@ Note: Zeros in Glucose, BloodPressure, SkinThickness, Insulin, and BMI are treat
 
 Scatter plot shows clear separation: patients with diabetes (blue) tend to have higher glucose and BMI values. Strong positive association visible in both dimensions.
 
-Business insight: Glucose and BMI are key screening targets; patients above ~140 mg/dL glucose and ~35 BMI warrant closer monitoring or preventive interventions.
+ Glucose and BMI are key screening targets; patients above ~140 mg/dL glucose and ~35 BMI warrant closer monitoring or preventive interventions.
 
 ### Insulin Levels by Diabetes Status
 ![Insulin Levels by Diabetes Status](boxplotdiabetes.png)
 
-Boxplot reveals higher median and more variable insulin levels among diabetic patients (Outcome = 1), consistent with insulin resistance.
 
-Business insight: Elevated insulin is a marker of metabolic risk; demand-response analogs in healthcare could include lifestyle interventions or pharmacotherapy to manage hyperinsulinemia.
+The boxplot shows significantly higher median and more variable insulin levels in diabetic individuals (Outcome = 1), with extreme outliers reaching up to ~800 μU/mL. This reflects insulin resistance and compensatory hyperinsulinemia, common in type 2 diabetes. The non-diabetic group (Outcome = 0) exhibits a tighter distribution with lower median values, indicating better insulin sensitivity. These patterns support insulin as a key marker for risk stratification and targeted interventions.
 
 ## Sample Risk Report
 [Download diabetes_risk_report.xlsx](diabetes_risk_report.xlsx)  
