@@ -35,14 +35,14 @@ Note: Zeros in Glucose, BloodPressure, SkinThickness, Insulin, and BMI are treat
 ## Demo Outputs
 
 ### Glucose vs BMI by Diabetes Outcome
-![Glucose vs BMI by Diabetes Outcome](glucose_bmi_by_outcome.png)
+![Glucose vs BMI by Diabetes Outcome](68115611-5317-4328-b132-30c1b531ad0d.png)
 
 Scatter plot shows clear separation: patients with diabetes (blue) tend to have higher glucose and BMI values. Strong positive association visible in both dimensions.
 
 Business insight: Glucose and BMI are key screening targets; patients above ~140 mg/dL glucose and ~35 BMI warrant closer monitoring or preventive interventions.
 
 ### Insulin Levels by Diabetes Status
-![Insulin Levels by Diabetes Status](insulin_by_outcome.png)
+![Insulin Levels by Diabetes Status](39c8e443-0585-403d-9fb3-4338af06be94.png)
 
 Boxplot reveals higher median and more variable insulin levels among diabetic patients (Outcome = 1), consistent with insulin resistance.
 
