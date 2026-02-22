@@ -42,7 +42,7 @@ Scatter plot shows clear separation: patients with diabetes (blue) tend to have 
  Glucose and BMI are key screening targets; patients above ~140 mg/dL glucose and ~35 BMI warrant closer monitoring or preventive interventions.
 
 ### Insulin Levels by Diabetes Status
-![Insulin Levels by Diabetes Status](insulin_by_outcome.png)
+![Insulin Levels by Diabetes Status](insulin_bmi_by_outcome.png)
 
 The boxplot shows significantly higher median and more variable insulin levels in diabetic individuals (Outcome = 1), with extreme outliers reaching up to ~800 μU/mL. This reflects insulin resistance and compensatory hyperinsulinemia, common in type 2 diabetes. The non-diabetic group (Outcome = 0) exhibits a tighter distribution with lower median values, indicating better insulin sensitivity. These patterns support insulin as a key marker for risk stratification and targeted interventions.
 
