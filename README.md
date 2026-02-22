@@ -1,4 +1,4 @@
-# Diabetes-Risk-Simulatorr
+
 # Diabetes Risk Simulator
 A Python/R-based quantitative risk modeling tool for diabetes onset prediction. It loads the classic Pima Indians Diabetes dataset, cleans invalid/missing values, forecasts risk using logistic regression, evaluates probabilistic outcomes, computes classification performance metrics, and provides interpretable risk insights for clinical or population health decision-making.
 Built as a portfolio project to demonstrate skills in healthcare data analytics, statistical modeling, risk quantification, and reproducible workflows—directly relevant to health services research, population health, and predictive analytics roles.
