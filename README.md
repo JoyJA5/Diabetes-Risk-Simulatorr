@@ -42,7 +42,7 @@ Scatter plot shows clear separation: patients with diabetes (blue) tend to have 
 Business insight: Glucose and BMI are key screening targets; patients above ~140 mg/dL glucose and ~35 BMI warrant closer monitoring or preventive interventions.
 
 ### Insulin Levels by Diabetes Status
-![Insulin Levels by Diabetes Status](39c8e443-0585-403d-9fb3-4338af06be94.png)
+![Insulin Levels by Diabetes Status](boxplotdiabetes.png)
 
 Boxplot reveals higher median and more variable insulin levels among diabetic patients (Outcome = 1), consistent with insulin resistance.
 
