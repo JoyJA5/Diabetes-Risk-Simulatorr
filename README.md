@@ -1,7 +1,7 @@
 
 # Diabetes Risk Simulator
-A Python/R-based quantitative risk modeling tool for diabetes onset prediction. It loads the classic Pima Indians Diabetes dataset, cleans invalid/missing values, forecasts risk using logistic regression, evaluates probabilistic outcomes, computes classification performance metrics, and provides interpretable risk insights for clinical or population health decision-making.
-Built as a portfolio project to demonstrate skills in healthcare data analytics, statistical modeling, risk quantification, and reproducible workflows—directly relevant to health services research, population health, and predictive analytics roles.
+R-based quantitative risk modeling tool for diabetes onset prediction. It loads the classic Pima Indians Diabetes dataset, cleans invalid and missing values, predicts risk using logistic regression, evaluates performance with classification metrics, and provides interpretable risk insights for clinical or population health decision-making.
+Built as a portfolio project to demonstrate skills in healthcare data analytics, statistical modeling, risk quantification, and reproducible workflows. Directly relevant to health services research, population health, and predictive analytics roles.
 
 ## Overview
 This tool:
@@ -35,7 +35,7 @@ Note: Zeros in Glucose, BloodPressure, SkinThickness, Insulin, and BMI are treat
 ## Demo Outputs
 
 ### Glucose vs BMI by Diabetes Outcome
-![Glucose vs BMI by Diabetes Outcome](68115611-5317-4328-b132-30c1b531ad0d.png)
+![Glucose vs BMI by Diabetes Outcome](glucose_by_outcome.png)
 
 Scatter plot shows clear separation: patients with diabetes (blue) tend to have higher glucose and BMI values. Strong positive association visible in both dimensions.
 
