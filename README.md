@@ -1,7 +1,6 @@
 
 # Diabetes Risk Simulator
 R-based quantitative risk modeling tool for diabetes onset prediction. It loads the classic Pima Indians Diabetes dataset, cleans invalid and missing values, predicts risk using logistic regression, evaluates performance with classification metrics, and provides interpretable risk insights for clinical or population health decision-making.
-Built as a portfolio project to demonstrate skills in healthcare data analytics, statistical modeling, risk quantification, and reproducible workflows. Directly relevant to health services research, population health, and predictive analytics roles.
 
 ## Overview
 This tool:
